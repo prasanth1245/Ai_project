@@ -1,0 +1,61 @@
+Time (s),Face Emotion,Voice Emotion,Status
+0.0,Neutral,Sad,FAKE / MISMATCH
+1.0,Neutral,Sad,FAKE / MISMATCH
+2.0,Neutral,Sad,FAKE / MISMATCH
+3.0,Happy,Sad,FAKE / MISMATCH
+4.0,Happy,Sad,FAKE / MISMATCH
+5.0,Happy,Sad,FAKE / MISMATCH
+6.0,Neutral,Sad,FAKE / MISMATCH
+7.0,Fear,Sad,FAKE / MISMATCH
+8.0,Fear,Sad,FAKE / MISMATCH
+9.0,Sad,Calm,Authentic
+10.0,Sad,Calm,Authentic
+11.0,Angry,Calm,Authentic
+12.0,Happy,Calm,Authentic
+13.0,Angry,Calm,Authentic
+14.0,Surprise,Sad,FAKE / MISMATCH
+15.0,Neutral,Sad,FAKE / MISMATCH
+16.0,Happy,Sad,FAKE / MISMATCH
+17.0,Surprise,Calm,Authentic
+18.0,Surprise,Calm,Authentic
+19.0,Happy,Calm,Authentic
+20.0,Sad,Calm,Authentic
+21.0,Sad,Sad,Authentic
+22.0,Sad,Sad,Authentic
+23.0,Sad,Sad,Authentic
+24.0,Sad,Calm,Authentic
+25.0,Fear,Calm,Authentic
+26.0,Fear,Calm,Authentic
+27.0,Fear,Calm,Authentic
+28.0,Angry,Calm,Authentic
+29.0,Happy,Calm,Authentic
+30.0,Happy,Calm,Authentic
+31.0,Happy,Calm,Authentic
+32.0,Fear,Calm,Authentic
+33.0,Sad,Calm,Authentic
+34.0,Happy,Calm,Authentic
+35.0,Sad,Calm,Authentic
+36.0,Neutral,Calm,Authentic
+37.0,Sad,Calm,Authentic
+38.0,Fear,Calm,Authentic
+39.0,Neutral,Calm,Authentic
+40.0,Fear,Calm,Authentic
+41.0,Neutral,Calm,Authentic
+42.0,Angry,Sad,Authentic
+43.0,Disgust,Sad,Authentic
+44.0,Happy,Sad,FAKE / MISMATCH
+45.0,Sad,Sad,Authentic
+46.0,Disgust,Sad,Authentic
+47.0,Fear,Sad,FAKE / MISMATCH
+48.0,Neutral,Sad,FAKE / MISMATCH
+49.0,Angry,Sad,Authentic
+50.0,Fear,Sad,FAKE / MISMATCH
+51.0,Angry,Calm,Authentic
+52.0,Angry,Calm,Authentic
+53.0,Angry,Calm,Authentic
+54.0,Fear,Calm,Authentic
+55.0,Fear,Calm,Authentic
+56.0,Neutral,Disgust,FAKE / MISMATCH
+57.0,Happy,Disgust,FAKE / MISMATCH
+58.0,Happy,Calm,Authentic
+59.0,Happy,Calm,Authentic
